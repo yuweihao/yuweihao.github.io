@@ -1,1 +1,1 @@
-This is my academic website. I altered a preexisting template to suit my needs. 
+This is my academic website. I altered a preexisting template [link1](http://svmiller.com/blog/2015/08/create-your-website-in-jekyll/) [link2](http://itsalgorithmic.com/resources/academic-website/) to suit my needs. Thanks for them.
