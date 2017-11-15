@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-{% include embedhighlight.html%}
+
 
 **Yu, W.**, Zhao, R., Deng, F., Huang, J., Chen, C., Yang, X., … & Deng, D. (2016). Propagation of Airy Gaussian vortex beams in uniaxial crystals. Chinese Physics B, 25(4), 044201.
 
