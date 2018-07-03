@@ -3,9 +3,12 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+# Conference Papers
+Zhouxia Wang, Tianshui Chen, Jimmy Ren, **Weihao Yu**, Hui Cheng, and Liang Lin, “Deep Reasoning with Knowledge Graph for Social Relationship Understanding”,  Proc. of International Joint Conference on Artificial Intelligence (**IJCAI**), 2018. [<a href="https://arxiv.org/pdf/1807.00504.pdf" target="_blank" rel="external">PDF</a>]
 
 
 
+# Journal Papers
 **Yu, W.**, Zhao, R., Deng, F., Huang, J., Chen, C., Yang, X., … & Deng, D. (2016). Propagation of Airy Gaussian vortex beams in uniaxial crystals. Chinese Physics B, 25(4), 044201.
 
 Deng, F., **Yu, W.**, Huang, J., Zhao, R., Lin, J., & Deng, D. (2016). Propagation of Airy-Gaussian beams in a chiral medium. The European Physical Journal D, 70(4), 87.
