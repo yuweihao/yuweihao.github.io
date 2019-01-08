@@ -9,12 +9,13 @@ Zhouxia Wang, Tianshui Chen, Jimmy Ren, **Weihao Yu**, Hui Cheng, and Liang Lin,
 
 
 # Journal Papers
-**Yu, W.**, Zhao, R., Deng, F., Huang, J., Chen, C., Yang, X., … & Deng, D. (2016). Propagation of Airy Gaussian vortex beams in uniaxial crystals. Chinese Physics B, 25(4), 044201.
+**Weihao Yu**, Ruihuang Zhao, Fu Deng, Jiayao Huang, Chidao Chen, Xiangbo Yang, Yanping Zhao, and Dongmei Deng, “Propagation of Airy Gaussian vortex beams in uniaxial crystals”, Chin. Physics B, 2016.
 
-Deng, F., **Yu, W.**, Huang, J., Zhao, R., Lin, J., & Deng, D. (2016). Propagation of Airy-Gaussian beams in a chiral medium. The European Physical Journal D, 70(4), 87.
+Fu Deng, **Weihao Yu**, and Dongmei Deng, “Controllably accelerating and decelerating Airy–Bessel–Gaussian wave packets”, Laser Physics Letter, 2016.
 
-Deng, F., **Yu, W.**, &; Deng, D. (2016). Controllably accelerating and decelerating Airy–Bessel–Gaussian wave packets. Laser Physics Letters, 13(11), 116202.
+Fu Deng, **Weihao Yu**, Jiayao Huang, Ruihuang Zhao, Jiong Lin, and Dongmei Deng, “Propagation of AiryGaussian beams in a chiral medium”, The European Physical Journal D, 2016.
 
-Zhao, R., Deng, F., **Yu, W.**, Huang, J., & Deng, D. (2016). Propagation properties of Airy–Gaussian vortex beams through the gradient-index medium. JOSA A, 33(6), 1025-1031.
+Ruihuang Zhao, Fu Deng, **Weihao Yu**, Jiayao Huang, and Dongmei Deng, “Propagation properties of Airy–Gaussian vortex beams through the gradient-index medium”, Journal of the Optical Society of America A, 2016.
 
-Huang, J., Liang, Z., Deng, F., **Yu, W.**, Zhao, R., Chen, B., … & Deng, D. (2015). Propagation properties of right-hand circularly polarized Airy–Gaussian beams through slabs of right-handed materials and left-handed materials. JOSA A, 32(11), 2104-2109.
+Jiayao Huang, Zijie Liang, Fu Deng, **Weihao Yu**, Ruihuang Zhao, Bo Chen, Xiangbo Yang, and Dongmei Deng, “Propagation properties of right-hand circularly polarized Airy–Gaussian beams through slabs of right-handed materials and left-handed materials”, Journal of the Optical Society of America A.
+
