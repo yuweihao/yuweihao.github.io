@@ -14,11 +14,11 @@ Zhouxia Wang, Tianshui Chen, Jimmy Ren, **Weihao Yu**, Hui Cheng, and Liang Lin,
 # Journal Papers
 **Weihao Yu**, Ruihuang Zhao, Fu Deng, Jiayao Huang, Chidao Chen, Xiangbo Yang, Yanping Zhao, and Dongmei Deng, “Propagation of Airy Gaussian vortex beams in uniaxial crystals”, Chin. Physics B, 2016. [[PDF](/PDF/CPB.pdf)]
 
-Fu Deng, **Weihao Yu**, and Dongmei Deng, “Controllably accelerating and decelerating Airy–Bessel–Gaussian wave packets”, Laser Physics Letter, 2016. [[PDF](/PDF/LPL.pdf)]
+Fu Deng, **Weihao Yu**, and Dongmei Deng, “Controllably accelerating and decelerating Airy-Bessel-Gaussian wave packets”, Laser Physics Letter, 2016. [[PDF](/PDF/LPL.pdf)]
 
-Fu Deng, **Weihao Yu**, Jiayao Huang, Ruihuang Zhao, Jiong Lin, and Dongmei Deng, “Propagation of AiryGaussian beams in a chiral medium”, The European Physical Journal D, 2016. [[PDF](/PDF/EPJD.pdf)]
+Fu Deng, **Weihao Yu**, Jiayao Huang, Ruihuang Zhao, Jiong Lin, and Dongmei Deng, “Propagation of Airy-Gaussian beams in a chiral medium”, The European Physical Journal D, 2016. [[PDF](/PDF/EPJD.pdf)]
 
-Ruihuang Zhao, Fu Deng, **Weihao Yu**, Jiayao Huang, and Dongmei Deng, “Propagation properties of Airy–Gaussian vortex beams through the gradient-index medium”, Journal of the Optical Society of America A, 2016. [[PDF](/PDF/JOSAA-2.pdf)]
+Ruihuang Zhao, Fu Deng, **Weihao Yu**, Jiayao Huang, and Dongmei Deng, “Propagation properties of Airy-Gaussian vortex beams through the gradient-index medium”, Journal of the Optical Society of America A, 2016. [[PDF](/PDF/JOSAA-2.pdf)]
 
-Jiayao Huang, Zijie Liang, Fu Deng, **Weihao Yu**, Ruihuang Zhao, Bo Chen, Xiangbo Yang, and Dongmei Deng, “Propagation properties of right-hand circularly polarized Airy–Gaussian beams through slabs of right-handed materials and left-handed materials”, Journal of the Optical Society of America A, 2015. [[PDF](/PDF/JOSAA-1.pdf)]
+Jiayao Huang, Zijie Liang, Fu Deng, **Weihao Yu**, Ruihuang Zhao, Bo Chen, Xiangbo Yang, and Dongmei Deng, “Propagation properties of right-hand circularly polarized Airy-Gaussian beams through slabs of right-handed materials and left-handed materials”, Journal of the Optical Society of America A, 2015. [[PDF](/PDF/JOSAA-1.pdf)]
 
