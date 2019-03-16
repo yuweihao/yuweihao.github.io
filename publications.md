@@ -7,6 +7,8 @@ permalink: /publications/
 [My Google Scholar](https://scholar.google.com/citations?user=LYxjt1QAAAAJ)
 
 # Conference Papers
+Tianshui Chen*, **Weihao Yu* (co-first-authors)**, Riquan Chen, and Liang Lin, “Knowledge-Embedded Routing Network for Scene Graph Generation”, Proc. of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019.
+
 Zhouxia Wang, Tianshui Chen, Jimmy Ren, **Weihao Yu**, Hui Cheng, and Liang Lin, “Deep Reasoning with Knowledge Graph for Social Relationship Understanding”,  Proc. of International Joint Conference on Artificial Intelligence (**IJCAI**), 2018. [<a href="https://arxiv.org/pdf/1807.00504.pdf" target="_blank" rel="external">PDF</a>] [<a href="https://github.com/wzhouxiff/SR" target="_blank" rel="external">code</a>]
 
 
