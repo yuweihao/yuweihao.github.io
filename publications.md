@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-[My Google Scholar](https://scholar.google.com/citations?user=LYxjt1QAAAAJ)
+[My Google Scholar profile](https://scholar.google.com/citations?user=LYxjt1QAAAAJ)
 
 # Conference Papers
 Tianshui Chen*, **Weihao Yu* (co-first-authors)**, Riquan Chen, and Liang Lin, “Knowledge-Embedded Routing Network for Scene Graph Generation”, Proc. of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019.
