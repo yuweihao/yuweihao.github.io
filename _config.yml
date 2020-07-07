@@ -1,7 +1,7 @@
 # Site settings
 title: Weihao Yu
-# email: whyu@whyu.me
-description: 
+email: 
+description: Weihao Yu (余伟浩)'s academic homepage
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://yuweihao.github.io" # the base hostname & protocol for your site
